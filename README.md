@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/721c14bd-6d87-40d0-8004-a6dbf0657b8b
 ## Install
 
 ```bash
-pi install git:github.com/orasik/pi-youtube
+pi install npm:pi-youtube
 ```
 
 ## Commands

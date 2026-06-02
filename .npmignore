@@ -1,0 +1,11 @@
+# IDE / editor
+.claude/
+.vscode/
+.idea/
+
+# Docs (optional — keep if you want them in the published package)
+docs/
+
+# Dev-only files
+.gitignore
+.npmignore
