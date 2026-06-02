@@ -2,6 +2,11 @@
 
 YouTube transcript & AI-powered summary extension for [pi](https://github.com/earendil-works/pi-coding-agent).
 
+
+
+https://github.com/user-attachments/assets/721c14bd-6d87-40d0-8004-a6dbf0657b8b
+
+
 ## Install
 
 ```bash
