@@ -5,12 +5,7 @@ YouTube transcript & AI-powered summary extension for [pi](https://github.com/ea
 ## Install
 
 ```bash
-pi install /Users/orasal-kubaisi/pi-extensions/pi-youtube
-```
-
-Or from a git repo:
-```bash
-pi install git:github.com/user/pi-youtube
+pi install git:github.com/orasik/pi-youtube
 ```
 
 ## Commands

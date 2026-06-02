@@ -1,9 +1,15 @@
 {
   "name": "pi-youtube",
-  "version": "2.0.0",
-  "description": "Fetch YouTube video transcripts and AI-powered summaries — slash command for pi",
-  "keywords": ["pi-package"],
+  "version": "1.0.0",
+  "description": "Fetch YouTube video transcripts and AI-powered summaries — slash command for pi. Customise the summary prompt.",
+  "keywords": [
+    "pi-package",
+    "pi-youtube",
+    "youtube"
+  ],
   "pi": {
-    "extensions": ["./index.ts"]
+    "extensions": [
+      "./index.ts"
+    ]
   }
 }
