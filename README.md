@@ -33,6 +33,9 @@ pi install npm:pi-youtube
 
 **Zero dependencies** — uses only built-in `fetch`.
 
+<img width="1520" height="1080" alt="pi-youtube" src="https://github.com/user-attachments/assets/e84fb2c8-acf3-414f-bf02-0a47ca7a7d93" />
+
+
 ## Config
 
 Default save locations (edit `~/.pi/youtube-config.json`):
